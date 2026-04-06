@@ -1,18 +1,35 @@
-![My Image](https://pin.it/2cWyDookS)
+# 👋 Hi, I'm Arpit  
 
-## Hi there 👋
+🚀 Backend Developer | Focused on building scalable systems  
 
-<!--
-**arpit-sketch/arpit-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Backend-focused (Node.js)  
+- 📚 Learning DSA & System Design  
+- 🏗️ Interested in scalable architecture  
+- 🌏 Goal: Work in top engineering environments  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Languages:** Python, JavaScript  
+- **Backend:**  Node.js, Express 
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, Postman, REST APIs  
+
+---
+
+## 📈 Current Focus  
+
+- Writing clean backend code  
+- Building real-world projects  
+- Improving problem-solving  
+
+---
+
+## ⚡ Philosophy  
+
+> Depth > Trends  
